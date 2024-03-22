@@ -11,7 +11,7 @@ export default function Course(props) {
     }
   }
 
-  const { title, description } = props; // Destructuring props to get title and description
+  const { title, description } = props; 
 
   return (
     <View style={styles.container}>
