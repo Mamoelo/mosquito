@@ -25,6 +25,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "permissions": [
+      "CAMERA",
+      "CAMERA_ROLL"
+    ]
   }
 }
